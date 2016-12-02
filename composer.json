@@ -1,0 +1,15 @@
+{
+    "name": "moiz2050/authy-php",
+    "description": "Authy Php library wrapper for laravel",
+    "require": {
+        "authy/php": "2.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mueez Sattar Khan",
+            "email": "mueez@askfortask.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
